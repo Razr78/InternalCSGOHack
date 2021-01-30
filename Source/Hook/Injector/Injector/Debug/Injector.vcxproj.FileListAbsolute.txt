@@ -1,0 +1,2 @@
+D:\Projects\CSGOHack\InternalHack\AnimeTitties Hook\AnimeTiddiesInjector\Injector\Debug\Injector.exe
+D:\Projects\CSGOHack\InternalHack\AnimeTitties Hook\AnimeTiddiesInjector\Injector\Debug\Injector.pdb
